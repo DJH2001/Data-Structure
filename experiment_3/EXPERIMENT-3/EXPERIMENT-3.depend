@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1618737284 source:e:\experiment\homework\200110808_段佳慧_实验3\学生代码\experiment-3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
